@@ -65,11 +65,11 @@ If you found this project insightful or helpful, please consider giving it a ⭐
 
 ---
 
-## 📬 Contact
+### 📫 Contact
 
 For any suggestions or queries:
 
-**Your Name**  
-Gmail : srikrishnapaul95@gmail.com  
-GitHub: github.com/Srikrishna1905
+**Srikrishna Paul**  
+Gmail: [srikrishnapaul95@gmail.com](mailto:srikrishnapaul95@gmail.com)  
+GitHub: [github.com/Srikrishna1905](https://github.com/Srikrishna1905)
 
