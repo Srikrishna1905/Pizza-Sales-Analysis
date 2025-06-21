@@ -71,5 +71,5 @@ For any suggestions or queries:
 
 **Your Name**  
 Gmail : srikrishnapaul95@gmail.com  
-GitHub: [github.com/yourusername](https://github.com/Srikrishnapaul1905)
+GitHub: (https://github.com/Srikrishnapaul1905)
 
